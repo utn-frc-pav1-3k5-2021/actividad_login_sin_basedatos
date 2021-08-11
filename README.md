@@ -5,7 +5,7 @@ Realizar los siguientes pasos:
 
 https://github.com/utn-frc-pav1-3k5-2021/actividad_login_sin_basedatos
 
-2, Crear una rama (branch) nueva usando el legajo como nombre del branch. Pueden usar el siguiente comando: 
+2. Crear una rama (branch) nueva usando el legajo como nombre del branch. Pueden usar el siguiente comando: 
 
 git checkout -b branch_12345 
 
