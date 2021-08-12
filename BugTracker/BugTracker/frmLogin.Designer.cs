@@ -48,6 +48,7 @@ namespace BugTracker
             // 
             this.txtContaseña.Location = new System.Drawing.Point(98, 76);
             this.txtContaseña.Name = "txtContaseña";
+            this.txtContaseña.PasswordChar = '•';
             this.txtContaseña.Size = new System.Drawing.Size(100, 23);
             this.txtContaseña.TabIndex = 1;
             // 
@@ -101,7 +102,7 @@ namespace BugTracker
             this.Controls.Add(this.txtContaseña);
             this.Controls.Add(this.txtUsuario);
             this.Name = "frmLogin";
-            this.Text = "frmLogin";
+            this.Text = "Inicio de Sesión";
             this.ResumeLayout(false);
             this.PerformLayout();
 
