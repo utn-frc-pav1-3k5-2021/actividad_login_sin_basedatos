@@ -22,9 +22,29 @@ namespace BugTracker
 
         }
 
-        private void lblUsuario_Click(object sender, EventArgs e)
+        private void btnIngresar_Click(object sender, EventArgs e)
         {
+            //Validamos que se haya ingresado un usuario
+            if ((txtUsuario.Text == ""))
+            {
+                MessageBox.Show("Se debe ingresar un usuario.");
+                return;
+            }
 
+            //Validamos que se haya ingresado una contraseña
+            if ((txtClave.Text == ""))
+            {
+                MessageBox.Show("Se debe ingresar una contraseña.");
+                return;
+            }
+
+            MessageBox.Show("Usted ha ingresado al sistema.");
+            this.Close();
+        }
+
+        private void btnSalir_Click(object sender, EventArgs e)
+        {
+            this.Close();
         }
     }
 }
