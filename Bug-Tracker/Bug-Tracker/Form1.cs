@@ -14,6 +14,8 @@ namespace Bug_Tracker
     {
         public Form1()
         {
+            // algo para forzar git
+
             InitializeComponent();
         }
 
