@@ -36,5 +36,10 @@ namespace BugTracker
             MessageBox.Show("Usted ha ingresado al sistema");
             this.Close();
         }
+
+        private void btnSalir_Click(object sender, EventArgs e)
+        {
+            Environment.Exit(0);
+        }
     }
 }
