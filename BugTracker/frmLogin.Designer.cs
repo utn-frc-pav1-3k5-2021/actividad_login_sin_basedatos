@@ -77,6 +77,7 @@ namespace BugTracker
             this.btnIngresar.TabIndex = 4;
             this.btnIngresar.Text = "Ingresar";
             this.btnIngresar.UseVisualStyleBackColor = true;
+            this.btnIngresar.Click += new System.EventHandler(this.btnIngresar_Click);
             // 
             // btnSalir
             // 
@@ -86,6 +87,7 @@ namespace BugTracker
             this.btnSalir.TabIndex = 5;
             this.btnSalir.Text = "Salir";
             this.btnSalir.UseVisualStyleBackColor = true;
+            this.btnSalir.Click += new System.EventHandler(this.btnSalir_Click);
             // 
             // frmLogin
             // 
