@@ -21,5 +21,27 @@ namespace BugTracker
         {
 
         }
+
+        private void btnLogin_Click(object sender, EventArgs e)
+        {
+            if ((txtUser.Text == ""))
+            {
+                MessageBox.Show("Se debe Ingresar un Usuario");
+                return;
+
+            }
+
+            if ((txtPass.Text == ""))
+            {
+                MessageBox.Show("Se debe Ingresar una Contraseña");
+                return;
+
+            }
+
+            MessageBox.Show("Usted a Ingresado al Sistema");
+            this.Close();
+
+
+        }
     }
 }

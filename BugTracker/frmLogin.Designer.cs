@@ -78,6 +78,7 @@ namespace BugTracker
             this.btn_Login.TabIndex = 4;
             this.btn_Login.Text = "Ingresar";
             this.btn_Login.UseVisualStyleBackColor = true;
+            this.btn_Login.Click += new System.EventHandler(this.btnLogin_Click);
             // 
             // btnExit
             // 
