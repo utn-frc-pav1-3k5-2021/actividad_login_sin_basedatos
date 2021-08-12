@@ -34,7 +34,7 @@ namespace BugTracker
 
         private void btnSalir_Click(object sender, EventArgs e)
         {
-            this.Close();
+            Environment.Exit(0);
         }
     }
 }
