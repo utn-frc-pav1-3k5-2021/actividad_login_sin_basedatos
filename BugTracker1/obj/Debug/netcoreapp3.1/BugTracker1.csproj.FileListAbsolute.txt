@@ -1,0 +1,14 @@
+C:\Users\usuario\Documents\3º AÑO\PAV\PROGRAMAS\Primer cu\BugTracker1\bin\Debug\netcoreapp3.1\BugTracker1.exe
+C:\Users\usuario\Documents\3º AÑO\PAV\PROGRAMAS\Primer cu\BugTracker1\bin\Debug\netcoreapp3.1\BugTracker1.deps.json
+C:\Users\usuario\Documents\3º AÑO\PAV\PROGRAMAS\Primer cu\BugTracker1\bin\Debug\netcoreapp3.1\BugTracker1.runtimeconfig.json
+C:\Users\usuario\Documents\3º AÑO\PAV\PROGRAMAS\Primer cu\BugTracker1\bin\Debug\netcoreapp3.1\BugTracker1.runtimeconfig.dev.json
+C:\Users\usuario\Documents\3º AÑO\PAV\PROGRAMAS\Primer cu\BugTracker1\bin\Debug\netcoreapp3.1\BugTracker1.dll
+C:\Users\usuario\Documents\3º AÑO\PAV\PROGRAMAS\Primer cu\BugTracker1\bin\Debug\netcoreapp3.1\BugTracker1.pdb
+C:\Users\usuario\Documents\3º AÑO\PAV\PROGRAMAS\Primer cu\BugTracker1\obj\Debug\netcoreapp3.1\BugTracker1.Form2.resources
+C:\Users\usuario\Documents\3º AÑO\PAV\PROGRAMAS\Primer cu\BugTracker1\obj\Debug\netcoreapp3.1\BugTracker1.csproj.GenerateResource.cache
+C:\Users\usuario\Documents\3º AÑO\PAV\PROGRAMAS\Primer cu\BugTracker1\obj\Debug\netcoreapp3.1\BugTracker1.AssemblyInfoInputs.cache
+C:\Users\usuario\Documents\3º AÑO\PAV\PROGRAMAS\Primer cu\BugTracker1\obj\Debug\netcoreapp3.1\BugTracker1.AssemblyInfo.cs
+C:\Users\usuario\Documents\3º AÑO\PAV\PROGRAMAS\Primer cu\BugTracker1\obj\Debug\netcoreapp3.1\BugTracker1.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\3º AÑO\PAV\PROGRAMAS\Primer cu\BugTracker1\obj\Debug\netcoreapp3.1\BugTracker1.dll
+C:\Users\usuario\Documents\3º AÑO\PAV\PROGRAMAS\Primer cu\BugTracker1\obj\Debug\netcoreapp3.1\BugTracker1.pdb
+C:\Users\usuario\Documents\3º AÑO\PAV\PROGRAMAS\Primer cu\BugTracker1\obj\Debug\netcoreapp3.1\BugTracker1.genruntimeconfig.cache
