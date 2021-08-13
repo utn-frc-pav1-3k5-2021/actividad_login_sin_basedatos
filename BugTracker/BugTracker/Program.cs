@@ -16,7 +16,7 @@ namespace BugTracker
         {
             Application.SetHighDpiMode(HighDpiMode.SystemAware);
             Application.EnableVisualStyles();
-            Application.Run(new Form1());
+            Application.Run(new formLogin());
         }
     }
 }
