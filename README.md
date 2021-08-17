@@ -1,3 +1,7 @@
+Nombre: Rodrigo
+Apellido: Agostinelli
+Legajo: 79006
+
 # Actividad Nro 2  Login sin Base de datos
 Realizar los siguientes pasos:
 
