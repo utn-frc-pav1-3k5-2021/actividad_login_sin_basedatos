@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "BugTracker": {
+      "commandName": "Project",
+      "workingDirectory": "D:\\pav2021\\actividad_login_sin_basedatos\\BugTracker"
+    }
+  }
+}
