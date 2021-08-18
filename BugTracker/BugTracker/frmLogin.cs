@@ -21,11 +21,13 @@ namespace BugTracker
         {
             if((txtUsuario.Text == ""))
             {
-                MessageBox.Show("Debe ingresar un Usuario:"):
+                MessageBox.Show("Debe ingresar un Usuario:");
+                return;
             }
             if((txtContraseña.Text == ""))
             {
                 MessageBox.Show("Debe ingresar una contraseña");
+                return;
             }
             MessageBox.Show("Usted ingreso al sistema");
             this.Close();
