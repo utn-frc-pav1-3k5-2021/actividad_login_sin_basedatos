@@ -37,7 +37,7 @@ namespace BagTracker
                 return;
             }
 
-            Usuario usu = new Usuario();
+            var usu = new Usuario();
             usu.NombreUsuario = txtUsu.Text;
             usu.Password = txtContra.Text;
 
@@ -57,8 +57,13 @@ namespace BagTracker
         public bool ValidarCredenciales(Usuario usuario)
         {
             if (usuario.NombreUsuario == "Rodrigo" && usuario.Password == "123")
+            {
                 return true;
-            return false;
+            }
+            else
+            {
+                return false;
+            }
         }
 
         private void Login_Load(object sender, EventArgs e)
